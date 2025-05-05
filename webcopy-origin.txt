@@ -1,140 +1,144 @@
 Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap-icons@1.7.2\font\bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap-icons@1.7.2\font\bootstrap-icons-1.css
 Content Type: text/css
 
 Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap-icons@1.7.2\font\fonts\bootstrap-icons.woff2
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap-icons@1.7.2\font\fonts\bootstrap-icons-1.woff2
 Content Type: font/woff2
 
 Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap-icons@1.7.2\font\fonts\bootstrap-icons.woff
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap-icons@1.7.2\font\fonts\bootstrap-icons-1.woff
 Content Type: font/woff
 
 Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap@5.3.3\dist\css\bootstrap.min.css
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap@5.3.3\dist\css\bootstrap.min-1.css
 Content Type: text/css
 
 Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap@5.3.3\dist\js\bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\npm\bootstrap@5.3.3\dist\js\bootstrap.bundle.min-1.js
 Content Type: application/javascript
 
 Uri: https://code.jquery.com/jquery-3.6.0.min.js
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\jquery-3.6.0.min-1.js
 Content Type: application/javascript
 
 Uri: https://epp.genproc.gov.ru/documents/1664002/1691830/rekunkov.pdf/0775df6e-fa8c-f2b7-cbae-958d6656ae76?t=1571854077833
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\documents\1664002\1691830\rekunkov.pdf\rekunkov.pdf
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\documents\1664002\1691830\rekunkov.pdf\rekunkov-1.pdf
 Content Type: application/pdf
 
 Uri: https://epp.genproc.gov.ru/documents/1664002/78195314/kravcov.pdf/24a8b8ce-ab96-83b5-3f18-a81dd9087de6?version=1.0&t=1668423855857&download=true
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\documents\1664002\78195314\kravcov.pdf\kravcov.pdf
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\documents\1664002\78195314\kravcov.pdf\kravcov-1.pdf
 Content Type: application/pdf
 
-Uri: https://rmrp-mosgorprok.ru/
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.htm
-Content Type: text/html
-
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\index.htm
-Content Type: text/html
-
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\index.htm
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\index-1.htm
 Content Type: text/html
 
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/book1
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\book1.html
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\book1-1.html
 Content Type: text/html
 
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/book2
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\book2.html
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\book2-1.html
 Content Type: text/html
 
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/books
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\books.html
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\books-1.html
 Content Type: text/html
 
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/heraldry
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\heraldry.html
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\heraldry-1.html
 Content Type: text/html
 
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/history
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\history.html
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\history-1.html
 Content Type: text/html
 
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/leadership
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\leadership.html
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\leadership-1.html
 Content Type: text/html
 
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/museum
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\museum.html
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\museum-1.html
 Content Type: text/html
 
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/nuremberg
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\nuremberg.html
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\nuremberg-1.html
 Content Type: text/html
 
 Uri: https://rmrp-mosgorprok.ru/index.wsgi/about/structure
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\structure.html
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\about\structure-1.html
 Content Type: text/html
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/appeals/procedure
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\appeals\procedure.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/index.wsgi/static/css/style.css
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\static\css\style-1.css
+Content Type: text/css
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-1.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/index.wsgi/static/img/prosecutor_emblem.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\static\img\prosecutor_emblem-1.png
+Content Type: image/png
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fappeals%2F
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/index.wsgi/static/js/main.js
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\static\js\main-1.js
+Content Type: text/javascript
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fappeals%2Fcreate
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-3.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/about-content__img_2.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\about-content__img_2-1.png
+Content Type: image/png
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F1%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-16.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/about-content__img_3.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\about-content__img_3-1.png
+Content Type: image/png
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F10%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-11.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/deputy_prosecutor.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\deputy_prosecutor-1.png
+Content Type: image/png
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F11%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-10.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/flag_big.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\flag_big-1.png
+Content Type: image/png
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F12%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-9.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/media_officer.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\media_officer-1.png
+Content Type: image/png
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F13%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-8.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/military_prosecutor.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\military_prosecutor-1.png
+Content Type: image/png
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F14%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-7.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/moscow_prosecutor.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\moscow_prosecutor-1.png
+Content Type: image/png
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F15%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-6.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/nunberg_big-1.jpg
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\nunberg_big-1-1.jpg
+Content Type: image/jpeg
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F16%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-5.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/nunberg_big-2.jpg
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\nunberg_big-2-1.jpg
+Content Type: image/jpeg
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F17%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-4.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/peter_i_decree.jpg
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\peter_i_decree-1.jpg
+Content Type: image/jpeg
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F2%2Fedit
-File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-15.html
-Content Type: text/html
+Uri: https://rmrp-mosgorprok.ru/static/img/prosecutor_emblem.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\prosecutor_emblem-1.png
+Content Type: image/png
 
-Uri: https://rmrp-mosgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F4%2Fedit
+Uri: https://rmrp-mosgorprok.ru/static/img/prosecutor_structure.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\prosecutor_structure-1.png
+Content Type: image/png
+
+Uri: https://rmrp-mosgorprok.ru/static/img/protection_officer.png
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\static\img\protection_officer-1.png
+Content Type: image/png
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\bootstrap\4.5.2\css\bootstrap.min-1.css
+Content Type: text/css
+
+sgorprok.ru/index.wsgi/auth/login?next=%2Findex.wsgi%2Fexplanations%2F4%2Fedit
 File Name: C:\Downloaded Web Sites\rmrp-mosgorprok.ru\index.wsgi\auth\login-14.html
 Content Type: text/html
 
